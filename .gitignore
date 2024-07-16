@@ -29,9 +29,7 @@ Thumbs.db
 # Ignore coverage reports
 coverage/
 
-# Ignore build directories
-dist/
-build/
+
 
 # Ignore temporary files
 *.tmp
@@ -39,11 +37,4 @@ build/
 *.swp
 *.bak
 
-# Ignore database files
-*.sqlite
-*.db
-*.sqlite3
-*.db3
 
-# Ignore configuration files
-config/
